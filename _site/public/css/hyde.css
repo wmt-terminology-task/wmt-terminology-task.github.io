@@ -57,7 +57,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #0f4d92;
+  background-color: #920f28;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -65,7 +65,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 25rem;
     text-align: left;
   }
 }
@@ -128,7 +128,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    max-width: 50rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -136,7 +136,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
+    margin-left: 26rem;
     margin-right: 4rem;
   }
 }
@@ -187,11 +187,11 @@ a.sidebar-nav-item:focus {
 }
 
 .theme-base-007 .sidebar {
-  background-color: #0f4d92;
+  background-color: #920f28;
 }
 .theme-base-007 .content a,
 .theme-base-007 .related-posts li a:hover {
-  color: #0f4d92;
+  color: #920f28;
 }
 
 /* Orange */
