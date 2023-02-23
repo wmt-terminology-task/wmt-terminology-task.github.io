@@ -32,7 +32,7 @@ Have questions or suggestions? Feel free to <a href="mailto:wmt-terminology@goog
 
 
 
-## Metrics Task Important Dates
+## Terminology Task Important Dates
 
 |  | Date |
 | ----------- | :-----------: |
