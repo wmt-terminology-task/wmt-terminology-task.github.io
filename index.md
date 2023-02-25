@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Welcome to the WMT 2023 Terminology Shared Task!
+# Welcome to the WMT 2023 Terminology Shared Task
 
 <p class="message">
 The accurate translation of technical terms and specialized vocabulary is a crucial aspect of determining the quality of machine translation output. The WMT 2023 Terminology Shared Task aims to assess the extent to which machine translation models can utilize additional information regarding the translation of terminologies.
@@ -18,7 +18,7 @@ Evaluation of submissions will be based on both the general translation quality 
 
 
 We welcome submissions of both machine translation systems that incorporate terminology at inference time and those trained in a weakly supervised manner utilizing terminology information.
-Have questions or suggestions? Feel free to <a href="mailto:wmt-terminology@googlegroups.com">Contact Us</a>!
+Have questions or suggestions? <a href="mailto:wmt-terminology@googlegroups.com">Contact Us</a>!
 </p>
 
 ## Motivation
@@ -28,9 +28,9 @@ Consider the following English sentence and the hypothesis which is being update
 |-|-|
 | Source		| The report is in accordance with ROA. |
 | Hypothesis 1	| Der Bericht steht im Einklang mit ROA. |
-| Help 1 		| “ROA” -> “FOG” |
+| Help 1 		| “ROA” → “FOG” |
 | Hypothesis 2	| Der Bericht steht im Einklang mit FOG. |
-| Help 2 		| “is in accordance” -> “entspricht” |
+| Help 2 		| “is in accordance” → “entspricht” |
 | Hypothesis 3 (best)	| Der Bericht entspricht ROA. |
 
 ## Important links
@@ -100,13 +100,11 @@ You are invited to submit a short paper (4 to 6 pages) to WMT describing your sy
 
 ## Data
 
-You can download the development data from [here](https://drive.google.com/drive/folders/1dwaX0HANYAPGtfNYQqsRbc45Mab_CdV-?usp=share_link).
+You download [the development data](https://drive.google.com/drive/folders/1dwaX0HANYAPGtfNYQqsRbc45Mab_CdV-?usp=share_link) and [the test data](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=share_link).
 <!-- A development set is also included within this resource. -->
 Please read the `README.md` in this folder for more information.
 
-**❗IMPORTANT❗**: The use of any additional terminology-specific data beyond that provided in these resources is strictly prohibited.
-
-You can download the test data from [here](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=share_link).
+**❗IMPORTANT❗** The use of any additional terminology-specific data beyond that provided in these resources is strictly prohibited.
 
 ## Example segment
 
@@ -115,7 +113,7 @@ Considering the example in [motivation](#motivation), the following source could
 
 `The report is in accordance with ROA.`
 
-Then, the corresponding line in `test.de-en.dict` can be empty or contain a JSON array, such as:
+Then, the corresponding line in `test.en-de.dict` can be empty or contain a JSON array, such as:
 
 `[{"en": "ROA", "de": "FOG"}, {"en": "is in accordance", "de": "entspricht"}]`
 
@@ -133,11 +131,9 @@ Your translations should be submitted through [this form](https://forms.gle/ziS7
 - Submissions should be uploaded by deadline stated above.
 - If you have any questions regarding to the submission, please send an email to [wmt-terminology@googlegroups.com](mailto:wmt-terminology@googlegroups.com).
 
-
 ## Submission Format
 
 An example submission is available [here](link).
-
 
 ## Sponsors
 
