@@ -25,7 +25,6 @@ Have questions or suggestions? Feel free to <a href="mailto:wmt-terminology@goog
 
 Consider the following English sentence and the hypothesis which is being updated based on incremental terminology information, which ultimately leads to the translation that is the closest to the reference.
 
-|||
 |-|-|
 | Source		| The report is in accordance with ROA. |
 | Hypothesis 1	| Der Bericht steht im Einklang mit ROA. |
