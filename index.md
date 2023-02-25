@@ -15,21 +15,29 @@ Participants in this task will be provided with source text and possibly an asso
 <!-- two dictionaries: (1) a `segment-level terminology dictionary` and (2) a  `segment-level randomly sampled translation dictionary`. -->
 Evaluation of submissions will be based on both the general translation quality and the effectiveness of terminology translation.
 
+
+
 We welcome submissions of both machine translation systems that incorporate terminology at inference time and those trained in a weakly supervised manner utilizing terminology information.
-
-
 Have questions or suggestions? Feel free to <a href="mailto:wmt-terminology@googlegroups.com">Contact Us</a>!
 </p>
 
+## Motivation
+
+Consider the following English sentence and the hypothesis which is being updated based on incremental terminology information, which ultimately leads to the translation that is the closest to the reference.
+
+|||
+|-|-|
+| Source		| The report is in accordance with ROA. |
+| Hypothesis 1	| Der Bericht steht im Einklang mit ROA. |
+| Help 1 		| “ROA” -> “FOG” |
+| Hypothesis 2	| Der Bericht steht im Einklang mit FOG. |
+| Help 2 		| “is in accordance” -> “entspricht” |
+| Hypothesis 3 (best)	| Der Bericht entspricht ROA. |
+
 ## Important links
 
-- [Training data](#training-data)
-
-- [Test data](#test-data)
-
-- [Submission link](#how-to-submit)
-
-
+- [Data](#data)
+- [How to submit](#how-to-submit)
 
 ## Terminology Task Important Dates
 
@@ -91,21 +99,28 @@ The final ranking of the submissions will be ascertained through a weighted aver
 ## Paper Describing Your System
 You are invited to submit a short paper (4 to 6 pages) to WMT describing your system. Shared task submission description papers are non-archival, and you are not required to submit a paper if you do not want to. If you don't, we ask that you give an appropriate reference describing your metric that we can cite in the overview paper.
 
-## Training Data
+## Data
+
 You can download the development data from [here](https://drive.google.com/drive/folders/1dwaX0HANYAPGtfNYQqsRbc45Mab_CdV-?usp=share_link).
 <!-- A development set is also included within this resource. -->
 Please read the `README.md` in this folder for more information.
 
 **❗IMPORTANT❗**: The use of any additional terminology-specific data beyond that provided in these resources is strictly prohibited.
 
-## Test Data
-
 You can download the test data from [here](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=share_link).
 
 ## Example segment
 
 TODO
+Considering the example in [motivation](#motivation), the following source could appear in `test.en-de.en`:
 
+`The report is in accordance with ROA.`
+
+Then, the corresponding line in `test.de-en.dict` can be empty or contain a JSON array, such as:
+
+`[{"en": "ROA", "de": "FOG"}, {"en": "is in accordance", "de": "entspricht"}]`
+
+It is then up to the model to utilize any part of this additional information.
 
 ## How to submit: 
 
