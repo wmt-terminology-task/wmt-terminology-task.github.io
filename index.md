@@ -64,9 +64,9 @@ Overall, the WMT 2023 Terminology Shared Task seeks to improve the state-of-the-
 ## Task Description
 
 We focus on the following language pairs (one direction for each):
-   - `zh-en`: Chinese -> English
-   - `cs-en`: English -> Czech
-   - `de-en`: German -> English
+   - `zh-en`: Chinese → English
+   - `cs-en`: English → Czech
+   - `de-en`: German → English
   
 <!-- and we provide two modes for each language pair:
 - `annotated`: primary mode. In this mode, you will be provided with the source sentences along with a segment-level terminology dictionary annotated by human.
@@ -108,7 +108,6 @@ Please read the `README.md` in this folder for more information.
 
 ## Example segment
 
-TODO
 Considering the example in [motivation](#motivation), the following source could appear in `test.en-de.en`:
 
 `The report is in accordance with ROA.`
@@ -150,6 +149,6 @@ An example submission is available [here](link).
 	     <img src="/public/css/ETH-logo.png" height=50px width=auto>
 	   </div>
 	   <div class="column">
-	     <img src="/public/css/microsoft.jpeg" height=80px width=auto>
+	     <img src="/public/css/microsoft.png" height=50px width=auto>
 	   </div>
 	</div>
