@@ -117,6 +117,8 @@ Then, the corresponding line in `test.en-de.dict` can be empty or contain a JSON
 `[{"en": "ROA", "de": "FOG"}, {"en": "is in accordance", "de": "entspricht"}]`
 
 It is then up to the model to utilize any part of this additional information.
+Note that the spans in the dictionary do not have to appear as consecutive words in the text (e.g. `He turned around` → `Er drehte sich um.` and `turned` → `drehte um`).
+Furthermore, it is possible that the alignment is not perfect (semi-automatic procedure), however it is guaranteed that the individual words appear in the text.
 
 ## How to submit: 
 
