@@ -130,7 +130,7 @@ Your translations should be submitted through [this form](https://forms.gle/ziS7
 - Translations should be in the form that text is normally published, e.g. recased and detokenised.
 - Each team is permitted to submit a maximum of 7 systems. If you are submitting multiple systems, we kindly request that you submit each system individually. In addition, we need you to indicate the primary system.
 - Submissions should be uploaded by deadline stated above.
-- If you have any questions regarding to the submission, please send an email to [wmt-terminology@googlegroups.com](mailto:wmt-terminology@googlegroups.com).
+- If you have any questions regarding to the submission, please send an email to [wmt-terminology@googlegroups.com](mailto:wmt-terminology@googlegroups.com). You can also contact the [organizers directly](mailto:eleanorjiang630@gmail.com,vilem.zouhar@gmail.com) with a private inquiry.
 
 ## Submission Format
 
