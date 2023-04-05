@@ -136,6 +136,18 @@ Your translations should be submitted through [this form](https://forms.gle/ziS7
 
 An example submission is available [here](link).
 
+## FAQ
+
+#### 1. Do I have to submit results for all language pairs?
+
+No, but we highly encourage it as it makes comparisons fairer.
+If you already have a system for a specific language pair, replicating it (without optimizing hyperparameters) for another language pair should be very easy and yield a good demonstration for your method.
+
+#### 2. What kind of general-purpose data can I use?
+
+The rules from the [constrained track of general MT](http://www2.statmt.org/wmt23/translation-task.html#_constrained_and_unconstrained_track) apply.
+Some positive exceptions may be granted if they do not violate the spirit of this task.
+
 ## Sponsors
 
 <style>
