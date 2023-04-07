@@ -11,7 +11,7 @@ layout: home
 The accurate translation of technical terms and specialized vocabulary is a crucial aspect of determining the quality of machine translation output. The WMT 2023 Terminology Shared Task aims to assess the extent to which machine translation models can utilize additional information regarding the translation of terminologies.
 
 
-Participants in this task will be provided with source text and possibly an associated segment-level terminology dictionary.
+Participants in this task will be provided with source text and possibly an associated segment-level terminology dictionary (multiple different ones).
 <!-- two dictionaries: (1) a `segment-level terminology dictionary` and (2) a  `segment-level randomly sampled translation dictionary`. -->
 Evaluation of submissions will be based on both the general translation quality and the effectiveness of terminology translation.
 
@@ -147,6 +147,17 @@ If you already have a system for a specific language pair, replicating it (witho
 
 The rules from the [constrained track of general MT](http://www2.statmt.org/wmt23/translation-task.html#_constrained_and_unconstrained_track) apply.
 Some positive exceptions may be granted if they do not violate the spirit of this task.
+
+#### 3. Is it allowed to train a general MT model and then do terminology adaptation by a post-edit model?
+
+Yes, though ideally it would all be one model which possilby takes in also the translation dictionary.
+
+#### 4. I am confused about the dev data that you provided.
+There are essentially three modes to this task:
+- general (no terminology dictionary)
+- terminology (associated translation dictionary of terminology words)
+- random-terminology (associated translation dictionary of random words)
+They're interleaved in the data so that everything can be processed easily by a single model. So even though there are the same source sentences, there are different additional "terminology" information, which creates the three modes.
 
 ## Sponsors
 
