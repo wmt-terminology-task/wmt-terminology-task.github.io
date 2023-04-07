@@ -157,6 +157,7 @@ There are essentially three modes to this task:
 - general (no terminology dictionary)
 - terminology (associated translation dictionary of terminology words)
 - random-terminology (associated translation dictionary of random words)
+
 They're interleaved in the data so that everything can be processed easily by a single model. So even though there are the same source sentences, there are different additional "terminology" information, which creates the three modes.
 
 ## Sponsors
