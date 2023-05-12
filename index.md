@@ -134,7 +134,7 @@ Your translations should be submitted through [this form](https://forms.gle/ziS7
 
 ## Submission Format
 
-An example submission is available [here](link).
+An example submission is available [here](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing).
 
 ## FAQ
 
