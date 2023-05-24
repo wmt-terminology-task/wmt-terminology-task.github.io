@@ -160,6 +160,15 @@ There are essentially three modes to this task:
 
 They're interleaved in the data so that everything can be processed easily by a single model. So even though there are the same source sentences, there are different additional "terminology" information, which creates the three modes.
 
+## Organizers
+
+In no particular order:
+- Yuchen Eleanor Jiang
+- Wangchunshu Zhou
+- Vilém Zouhar
+- Tom Kocmi
+- Ryan Cotterell
+
 ## Sponsors
 
 <style>
@@ -178,4 +187,3 @@ They're interleaved in the data so that everything can be processed easily by a 
 	     <img src="/public/css/microsoft.png" height=50px width=auto>
 	   </div>
 	</div>
-
