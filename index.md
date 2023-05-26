@@ -122,7 +122,7 @@ Furthermore, it is possible that the alignment is not perfect (semi-automatic pr
 
 ## How to submit: 
 
-Before you submit, please make sure your submission follows the [submission format](#submission-format).
+Before you submit, please make sure your submission follows the submission format (example [here](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing)).
 You can run your translation files through a validation script, which is now available [here](https://drive.google.com/file/d/12_uzUVUJAppN5PQLo1Uh8TK9UcwV0AfW/view?usp=sharing).
 
 Your translations should be submitted through [this form](https://forms.gle/ziS7v3r9kxW5xJSx6).
@@ -131,10 +131,6 @@ Your translations should be submitted through [this form](https://forms.gle/ziS7
 - Each team is permitted to submit a maximum of 7 systems. If you are submitting multiple systems, we kindly request that you submit each system individually. In addition, we need you to indicate the primary system.
 - Submissions should be uploaded by deadline stated above.
 - If you have any questions regarding to the submission, please send an email to [wmt-terminology@googlegroups.com](mailto:wmt-terminology@googlegroups.com). You can also contact the [organizers directly](mailto:eleanorjiang630@gmail.com,vilem.zouhar@gmail.com) with a private inquiry.
-
-## Submission Format
-
-An example submission is available [here](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing).
 
 ## FAQ
 
