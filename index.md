@@ -43,7 +43,8 @@ Consider the following English sentence and the hypothesis which is being update
 |  | Date |
 | ----------- | :-----------: |
 | **Training data and test data ready to download** | **16th March, 2023** |
-| **Submission deadline for the terminology task** |  **23th June, 2023** |
+| **Release of the blind set** | **1th July, 2023** |
+| **Submission deadline for the terminology task** |  **8th July, 2023** |
 | **Paper submission deadline to WMT** | **TBA September, 2023** |
 | WMT Notification of acceptance | TBA October, 2023 |
 | WMT Camera-ready deadline | 16th October, 2023 |
