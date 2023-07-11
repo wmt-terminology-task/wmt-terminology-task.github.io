@@ -43,8 +43,8 @@ Consider the following English sentence and the hypothesis which is being update
 |  | Date |
 | ----------- | :-----------: |
 | **Training data and test data ready to download** | **16th March, 2023** |
-| **Release of the blind set** | **8th July, 2023** |
-| **Submission deadline for the terminology task** |  **15th July, 2023** |
+| **Release of the [blind test](https://drive.google.com/drive/folders/1g0MSxi_U9y722oiHhq3BntKuEfJQwh6k?usp=sharing)** | **11th July, 2023** |
+| **Submission deadline for the terminology task** |  **18th July, 2023** |
 | **Paper submission deadline to WMT** | **TBA September, 2023** |
 | WMT Notification of acceptance | TBA October, 2023 |
 | WMT Camera-ready deadline | 16th October, 2023 |
@@ -101,6 +101,7 @@ You are invited to submit a short paper (4 to 6 pages) to WMT describing your sy
 
 ## Data
 
+**The data for the blind test is now available at [blind test](https://drive.google.com/drive/folders/1g0MSxi_U9y722oiHhq3BntKuEfJQwh6k?usp=sharing)!**
 You download [the development data](https://drive.google.com/drive/folders/1dwaX0HANYAPGtfNYQqsRbc45Mab_CdV-?usp=share_link) and [the test data](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=share_link).
 <!-- A development set is also included within this resource. -->
 Please read the `README.md` in this folder for more information.
