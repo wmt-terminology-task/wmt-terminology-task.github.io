@@ -166,6 +166,7 @@ In no particular order:
 - Wangchunshu Zhou
 - Vilém Zouhar
 - Tom Kocmi
+- Dongdong Zhang
 - Ryan Cotterell
 
 ## Sponsors
