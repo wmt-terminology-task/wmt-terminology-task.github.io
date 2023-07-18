@@ -50,7 +50,7 @@ Consider the following English sentence and the hypothesis which is being update
 | WMT Camera-ready deadline | 16th October, 2023 |
 | Conference | 	TBA December, 2023 |
 
-**Please make sure you submit translation results on both the blind set and the test set. The detailed submission format for both the blind set and the test set is specified [here]([https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing]!**
+**Please make sure you submit translation results on both the blind set and the test set. The detailed submission format for both the blind set and the test set is specified [here](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing)!**
 
 All deadlines are in AoE (Anywhere on Earth). Dates are specified with respect to EMNLP 2023.
 
@@ -127,7 +127,7 @@ Furthermore, it is possible that the alignment is not perfect (semi-automatic pr
 
 ## How to submit: 
 
-**The new submission guideline is available [here]([https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing]!!!**
+**The new submission guideline is available [here](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing)!!!**
 
 Before you submit, please make sure your submission follows the submission format (example [here]([https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing](https://drive.google.com/file/d/1rvXBF9hU4yiKSKVQ4v7bwvgvF2gjMAM_/view?usp=drive_link))).
 You can run your translation files through a validation script, which is now available [here](https://drive.google.com/file/d/12_uzUVUJAppN5PQLo1Uh8TK9UcwV0AfW/view?usp=sharing).
