@@ -42,13 +42,13 @@ Consider the following English sentence and the hypothesis which is being update
 
 |  | Date |
 | ----------- | :-----------: |
-| **Training data and test data ready to download** | **16th March, 2023** |
-| **Release of the [blind test](https://drive.google.com/drive/folders/1g0MSxi_U9y722oiHhq3BntKuEfJQwh6k?usp=sharing)** | **11th July, 2023** |
-| **Submission deadline for the terminology task** |  **24th July, 2023** |
-| **Paper submission deadline to WMT** | **TBA September, 2023** |
-| WMT Notification of acceptance | TBA October, 2023 |
-| WMT Camera-ready deadline | 16th October, 2023 |
-| Conference | 	TBA December, 2023 |
+| Training data and test data ready to download | 16th March, 2023 |
+| Release of the [blind test](https://drive.google.com/drive/folders/1g0MSxi_U9y722oiHhq3BntKuEfJQwh6k?usp=sharing) | 11th July, 2023 |
+| Submission deadline for the terminology task |  24th July, 2023 |
+| Paper submission deadline to WMT | 5th September, 2023 |
+| WMT Notification of acceptance | 6th October, 2023 |
+| WMT Camera-ready deadline | 18th October, 2023 |
+| Conference | 	6-7 December, 2023 |
 
 **Please make sure you submit translation results on both the blind set and the test set. The detailed submission format for both the blind set and the test set is specified [here](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing)!**
 
