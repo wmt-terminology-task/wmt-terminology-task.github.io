@@ -170,6 +170,7 @@ In no particular order:
 - Wangchunshu Zhou
 - Vilém Zouhar
 - Tom Kocmi
+- Kirill Semenov
 - Dongdong Zhang
 - Ryan Cotterell
 
