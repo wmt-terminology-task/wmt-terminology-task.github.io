@@ -103,11 +103,13 @@ You are invited to submit a short paper (4 to 6 pages) to WMT describing your sy
 
 ## Data
 
-**The data for the blind test is now available at [blind test](https://drive.google.com/drive/folders/1g0MSxi_U9y722oiHhq3BntKuEfJQwh6k?usp=sharing)!**
+- Dev: [public](https://drive.google.com/drive/folders/1dwaX0HANYAPGtfNYQqsRbc45Mab_CdV-?usp=share_link) and [blind](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=share_link)
+- Test: [blind](https://drive.google.com/drive/folders/1g0MSxi_U9y722oiHhq3BntKuEfJQwh6k?usp=sharing)
+<!-- **The data for the blind test is now available at [blind test](https://drive.google.com/drive/folders/1g0MSxi_U9y722oiHhq3BntKuEfJQwh6k?usp=sharing)!** -->
 
-You download [the development data](https://drive.google.com/drive/folders/1dwaX0HANYAPGtfNYQqsRbc45Mab_CdV-?usp=share_link) and [the test data](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=share_link).
+<!-- You download [the development data](https://drive.google.com/drive/folders/1dwaX0HANYAPGtfNYQqsRbc45Mab_CdV-?usp=share_link) and [the test data](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=share_link). -->
 <!-- A development set is also included within this resource. -->
-Please read the `README.md` in this folder for more information.
+<!-- Please read the `README.md` in this folder for more information. -->
 
 **❗IMPORTANT❗** The use of any additional terminology-specific data beyond that provided in these resources is strictly prohibited.
 
