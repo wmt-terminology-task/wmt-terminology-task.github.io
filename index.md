@@ -50,8 +50,9 @@ Consider the following English sentence and the hypothesis which is being update
 | WMT Camera-ready deadline | 18th October, 2023 |
 | Conference | 	6-7 December, 2023 |
 
-**Please make sure you submit translation results on both the blind set and the test set. The detailed submission format for both the blind set and the test set is specified [here](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing)!**
-
+<!-- **Please  -->
+Make sure to submit translation results on both the dev and the test sets.
+<!-- The detailed submission format for both the blind set and the test set is specified [here](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing)!** -->
 All deadlines are in AoE (Anywhere on Earth). Dates are specified with respect to EMNLP 2023.
 
 ## Goals
@@ -107,13 +108,13 @@ You are invited to submit a short paper (4 to 6 pages) to WMT describing your sy
 - Test: [blind](https://drive.google.com/drive/folders/1g0MSxi_U9y722oiHhq3BntKuEfJQwh6k?usp=sharing)
 
 All data, including references, have now been published: [wmt-terminology-task/data-2023](https://github.com/wmt-terminology-task/data-2023).
+The use of any additional terminology-specific data beyond that provided in these resources is prohibited.
 <!-- **The data for the blind test is now available at [blind test](https://drive.google.com/drive/folders/1g0MSxi_U9y722oiHhq3BntKuEfJQwh6k?usp=sharing)!** -->
 
 <!-- You download [the development data](https://drive.google.com/drive/folders/1dwaX0HANYAPGtfNYQqsRbc45Mab_CdV-?usp=share_link) and [the test data](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=share_link). -->
 <!-- A development set is also included within this resource. -->
 <!-- Please read the `README.md` in this folder for more information. -->
-
-**❗IMPORTANT❗** The use of any additional terminology-specific data beyond that provided in these resources is strictly prohibited.
+<!-- **❗IMPORTANT❗**  -->
 
 ## Example segment
 
@@ -131,7 +132,7 @@ Furthermore, it is possible that the alignment is not perfect (semi-automatic pr
 
 ## How to submit: 
 
-**The new submission guideline is available [here](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing)!!!**
+<!-- Read [the submission guidelines](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing). -->
 
 Before you submit, please make sure your submission follows the submission format (example [here]([https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing](https://drive.google.com/file/d/1rvXBF9hU4yiKSKVQ4v7bwvgvF2gjMAM_/view?usp=drive_link))).
 You can run your translation files through a validation script, which is now available [here](https://drive.google.com/file/d/12_uzUVUJAppN5PQLo1Uh8TK9UcwV0AfW/view?usp=sharing).
