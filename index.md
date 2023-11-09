@@ -5,7 +5,27 @@
 layout: home
 ---
 
-# Welcome to the WMT 2023 Terminology Shared Task
+# Findings Paper
+
+Read the [Findings of the WMT 2023 Shared Task on Machine Translation with Terminologies](wmt_terminology_2023.pdf).
+Cite the work as:
+```
+@inproceedings{semenov-etal-2023-findings,
+    title = "Findings of the WMT 2023 Shared Task on Machine Translation with Terminologies",
+    author = "Kirill Semenov and
+              Vilém Zouhar and
+              Tom Kocmi and
+              Dongdong Zhang and
+              Wangchunshu Zhou and
+              Yuchen Eleanor Jiang"
+    booktitle = "Proceedings of the Eight Conference on Machine Translation (WMT)",
+    month = dec,
+    year = "2023",
+    publisher = "Association for Computational Linguistics",
+}
+```
+
+# WMT 2023 Terminology Shared Task
 
 <p class="message">
 The accurate translation of technical terms and specialized vocabulary is a crucial aspect of determining the quality of machine translation output. The WMT 2023 Terminology Shared Task aims to assess the extent to which machine translation models can utilize additional information regarding the translation of terminologies.
@@ -14,8 +34,6 @@ The accurate translation of technical terms and specialized vocabulary is a cruc
 Participants in this task will be provided with source text and possibly an associated segment-level terminology dictionary (multiple different ones).
 <!-- two dictionaries: (1) a `segment-level terminology dictionary` and (2) a  `segment-level randomly sampled translation dictionary`. -->
 Evaluation of submissions will be based on both the general translation quality and the effectiveness of terminology translation.
-
-
 
 We welcome submissions of both machine translation systems that incorporate terminology at inference time and those trained in a weakly supervised manner utilizing terminology information.
 Have questions or suggestions? <a href="mailto:wmt-terminology@googlegroups.com">Contact Us</a>!
