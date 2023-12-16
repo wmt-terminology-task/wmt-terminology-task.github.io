@@ -1,0 +1,10 @@
+The upd_wmt_terminology_2023_stats.tsv contains all statistics from all the submitted files. 
+Some necessary comments on how the table is organized:
+
+- 'terminology' column - mode of the terminology dictionary ('base' - no terms, 'rand' - random terms, 'term' - proper terms)
+
+- 'regex', 'fuzzy90', 'lemma_regex', 'lemma_fuzzy90' - four metrics for estimating the success rate. They are either based on regex match count, or on counts of fuzzy scores over 90%. The two former columns count the raw output matches, the two latter count the lemmatized outputs (and the lemmatized terms). In the originally published paper, my co-authors used 'fuzzy90' score, but in the updated paper and the slides we use 'lemma_regex' ones as the more interpretable and transparent ones.
+
+- 'dataset' column includes the information about whether it is 'blind' (larger) or 'test' (smaller) dataset. In the paper, we used only the 'blind' dataset.
+
+- other columns with the file description and with most of the metrics should be clear, feel free to ask Kirill Semenov (kir __dot__ semenow __at__ yandex __dot__ ru) if you have any questions!
