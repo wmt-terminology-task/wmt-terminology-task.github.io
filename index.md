@@ -5,6 +5,15 @@
 layout: home
 ---
 
+# Updated Statistics and Presentation
+
+*16.12.2023*: After the publication of the official proceedings, we found several inconsistencies in authors' submissions and our metrics' performance. For the transparency and replicability of the research outcomes, we publish the updated and double-checked results with all necessary comments:
+* updated findings [paper](upd_wmt_terminology_2023.pdf)
+* [tsv file](upd_wmt_terminology_2023_stats.tsv) with all submissions and all statistics and a short [explanation](stats_description.txt) to it
+* [slides](wmt_terminology_2023_slides.pdf) from the WMT23 presentation (**the slides 17-28 contain additional plots and graphs that were not included in the slides or paper, but might be informative**)
+
+We apologize for finding the inconsistencies late, and we hope that the published updates will help.
+
 # Findings Paper
 
 Read the [Findings of the WMT 2023 Shared Task on Machine Translation with Terminologies](wmt_terminology_2023.pdf).
