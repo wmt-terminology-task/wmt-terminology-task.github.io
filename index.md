@@ -161,7 +161,7 @@ Furthermore, it is possible that the alignment is not perfect (semi-automatic pr
 
 <!-- Read [the submission guidelines](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing). -->
 
-Before you submit, please make sure your submission follows the submission format (example [here]([https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing](https://drive.google.com/file/d/1rvXBF9hU4yiKSKVQ4v7bwvgvF2gjMAM_/view?usp=drive_link))).
+Before you submit, please make sure your submission follows the submission format (example [here](https://drive.google.com/drive/folders/11YqeDAgJVOflw4npcaEZ0itKMh5nUwJ1?usp=sharing)).
 You can run your translation files through a validation script, which is now available [here](https://drive.google.com/file/d/12_uzUVUJAppN5PQLo1Uh8TK9UcwV0AfW/view?usp=sharing).
 
 Your translations should be submitted through [this form](https://forms.gle/ziS7v3r9kxW5xJSx6).
