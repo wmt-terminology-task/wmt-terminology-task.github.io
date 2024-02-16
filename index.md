@@ -15,7 +15,7 @@ layout: home
 
 We apologize for finding the inconsistencies late, and we hope that the published updates will help.
 
-## Shared Submission files
+## Shared Submission Files
 *16.02.2024*: We also publish all submitted systems' outputs:
 * here you can find the [readme explanation](submissions/submissions_readme.md) on the formats of submitted files and their short description;
 * here are the [raw submissions](submissions/submissions.zip);
