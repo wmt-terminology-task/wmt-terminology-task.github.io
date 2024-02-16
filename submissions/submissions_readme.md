@@ -42,23 +42,24 @@ For `base` mode, we filled the `terms` column with the correct terminology (i.e.
 ### 3.1. General Overview
 
 Here, we specify the relation between the sumbitted systems, their references in the paper and the necessary notes. 
+
 | System name  | Submitted by |  In Paper? |  Notes |
 | --- | --- | --- | --- |
-|	lc_wmt23_single	|	Lingua Custodia	|	☑	|	in paper, referred to as Lingua Custodia	|
-|	HW-TSC	|	Huawei	|	☑	|	in paper, referred to as Huawei.	|
-|	opuscat-terms	|	University of Helsinki	|	☑	|	in blind datasets, the sentences were provided in a order: term->rand->base. In `split_submissions` folder, they are ordered in the correct way.	|
-|	DCU-TU-TR	|	AdaptTerm (Yasmin Moslem; Gianfranco Romani; Mahdi Molaei)	|	☑	|	in paper, referred to as AdaptTerm	|
+|	lc_wmt23_single	|	Lingua Custodia	|	x	|	in paper, referred to as Lingua Custodia	|
+|	HW-TSC	|	Huawei	|	x	|	in paper, referred to as Huawei.	|
+|	opuscat-terms	|	University of Helsinki	|	x	|	in blind datasets, the sentences were provided in a order: term->rand->base. In `split_submissions` folder, they are ordered in the correct way.	|
+|	DCU-TU-TR	|	AdaptTerm (Yasmin Moslem; Gianfranco Romani; Mahdi Molaei)	|	x	|	in paper, referred to as AdaptTerm	|
 |	TSSNMT	|	NCSOFT	|		|	most of the sentences from submission were not found in the source files from the datasets. We filtered them out and got only a small subset, around 57 sentences for blind dataset. This heavily influences the metrics of terminology consistency and success rate, thus the results should not be compared to other systems directly.	|
-|	TSSNMT_filtered	|	NCSOFT	|	☑	|	same problem as with as TSSNMT. In the paper, referred to as VARCO-MT_TSSNMT	|
+|	TSSNMT_filtered	|	NCSOFT	|	x	|	same problem as with as TSSNMT. In the paper, referred to as VARCO-MT_TSSNMT	|
 |	BJTU-LB_system1	|	Beijing Jiaotong University	|		|		|
 |	ForceGen_Transformer	|	NCSOFT	|		|		|
-|	ForceGen_Transformer_filtered	|	NCSOFT	|	☑	|	in paper, referred to as VARCO-MT_ForceGen	|
-|	BJTU-LB_system2	|	Beijing Jiaotong University;	|	☑	|	in paper, referred to as BJTU-LB	|
-|	uedin_twoshot	|	University of Edinburgh	|	☑	|		|
+|	ForceGen_Transformer_filtered	|	NCSOFT	|	x	|	in paper, referred to as VARCO-MT_ForceGen	|
+|	BJTU-LB_system2	|	Beijing Jiaotong University;	|	x	|	in paper, referred to as BJTU-LB	|
+|	uedin_twoshot	|	University of Edinburgh	|	x	|		|
 |	uedin_decode_tag	|	University of Edinburgh	|		|		|
-|	uedin_decode_tag_improved	|	University of Edinburgh	|	☑	|	in paper, referred to as UEDIN_tag	|
+|	uedin_decode_tag_improved	|	University of Edinburgh	|	x	|	in paper, referred to as UEDIN_tag	|
 |	uedin_llm	|	University of Edinburgh	|		|		|
-|	uedin_llm_improved	|	University of Edinburgh	|	☑	|	in paper, referred to as UEDIN_LLM	|
+|	uedin_llm_improved	|	University of Edinburgh	|	x	|	in paper, referred to as UEDIN_LLM	|
 
 
 ### 3.2. Languages Covered
